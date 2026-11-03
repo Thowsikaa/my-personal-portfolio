@@ -38,3 +38,9 @@ Hobbies
 
 ## Career Goal
 My goal is to become a skilled software developer.
+## Contact
+Email: yourmail@example.com
+
+## Projects
+- Personal Portfolio Website
+- Toy Shop Website
