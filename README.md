@@ -44,7 +44,16 @@ Email: yourmail@example.com
 ## Projects
 - Personal Portfolio Website
 - Toy Shop Website
-## About My Portfolio
-I am a Computer Technology student.
-I am interested in web development
-and learning new technologies.
+- ## Technical Skills
+
+- C Programming
+- HTML
+- CSS
+- JavaScript
+- Digital Electronics
+
+## My Strengths
+
+- Problem Solving
+- Teamwork
+- Quick Learning
