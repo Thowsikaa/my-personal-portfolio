@@ -31,3 +31,10 @@ Hobbies
 - Listening to music
 - Learning new technologies
 - Exploring new things
+## My Hobbies
+- Listening to music
+- Learning new technologies
+- Reading books
+
+## Career Goal
+My goal is to become a skilled software developer.
