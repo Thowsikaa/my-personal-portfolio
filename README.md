@@ -44,3 +44,16 @@ Email: yourmail@example.com
 ## Projects
 - Personal Portfolio Website
 - Toy Shop Website
+- ## Technical Skills
+
+- C Programming
+- HTML
+- CSS
+- JavaScript
+- Digital Electronics
+
+## My Strengths
+
+- Problem Solving
+- Teamwork
+- Quick Learning
